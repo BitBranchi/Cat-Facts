@@ -1,0 +1,13 @@
+{
+  "name": "cat-facts",
+  "version": "1.0.0",
+  "description": "A tiny site that shows random cat facts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
